@@ -48,7 +48,7 @@ func azure functionapp publish func-static-image-site
 ```bash
 cd frontend
 az storage blob upload-batch   
- --account-name stimagesitemouctar   
+ --account-name <STORAGE_ACCOUNT_NAME>   
  --destination '$web'   
  --source .   
  --overwrite
