@@ -72,12 +72,6 @@ Les informations d’authentification Azure (Service Principal) ne sont pas incl
 
 ---
 
-## URLs importantes
+## Ressources de déploiement
 
-- **Site statique**  
-  https://stimagesitemouctar.z27.web.core.windows.net
-
-- **Function App**
-  https://func-static-image-site-hpd7a2drg4hkdgcr.canadaeast-01.azurewebsites.net
-
-> Note : les ressources Azure peuvent être supprimées après la remise du projet. Les URLs sont fournies à titre démonstratif.
+Les URL Azure de ce projet universitaire ne sont pas publiées ici, car elles peuvent avoir expiré ou avoir été désactivées. Utiliser les adresses fournies par son propre environnement Azure.
